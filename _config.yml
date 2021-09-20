@@ -6,20 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: My website
+title: JB8
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Personal Site
 
 # GitHub Actions
-repository: "VincentTam/beautiful-jekyll"
+repository: "kakesuperstar/kakesuperstar.github.io"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # Your name to show in the footer
-author: Some Person
+author: Jacob Boylan
 
 # --- List of links in the navigation bar --- #
 
