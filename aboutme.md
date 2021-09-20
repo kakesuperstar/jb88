@@ -15,4 +15,3 @@ My name is Jake and I graduated from Kennesaw State University with a bachelors 
 
 
 ### My Resume:
-
