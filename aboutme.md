@@ -2,15 +2,17 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
+Bienvenidos!
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jake and I graduated from Kennesaw State University with a bachelors degree in Cyber Security. I am currently pursuing a Master of Science in Information Technology at Kennesaw State University, and anticipate completing the degree in July of 2022. I am also in the process of completing the [AWS Certified Cloud Practioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) certification and will be looking to earn the [CompTIA Security+](https://www.comptia.org/certifications/security) certification next.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### My email:
 
-### My story
+[jacobboylan8@gmail.com](mailto:jacobboylan8@gmail.com)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+### My Resume:
+
